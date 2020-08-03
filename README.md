@@ -1,4 +1,4 @@
-This repository containts a collection of data on D.sechellia loss of immune response against parasitoid wasps. 
+This repository contains a collection of data on D.sechellia loss of immune response against parasitoid wasps. 
 It is analysed in Chapter 5 of my PhD thesis "Evolutionary genomics of the parasitoid resistance in Drosophila", and  
 comprises a lab experiment with a noni extract and a field survey in Cousin Island, Seychelles. 
 
