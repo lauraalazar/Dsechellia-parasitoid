@@ -120,7 +120,7 @@ noni <-data.frame(x = factor(c(1:19)),  colour = factor(c(rep(1,3),rep(2,8),rep(
 
 field.plot <- ggplot(field.data.melted,aes(x=factor(sample),y=value,fill=factor(variable)))+
   geom_bar(stat = "identity",color="white") + 
-  labs(title ="Emerged flies from each field-collected noni samples",
+  labs(title ="Emerged insects from each field-collected noni sample",
        x="noni sample",y="Number  of emerged insects") + 
   ylim(-10, 50) +
   scale_fill_manual("colour code",values=field.colors,labels=expression("unripe noni","ripe noni","overripe noni", italic("D. malerkotliana"), italic("D. sechellia"),italic("L. boulardi"))) + #,labels=cecal.grupo.lab
